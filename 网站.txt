@@ -1,0 +1,3 @@
+WOS: https://webofscience.clarivate.cn/wos/woscc/basic-search
+知网：https://www.cnki.net/
+ChatGPT: https://chatgpt.com/
